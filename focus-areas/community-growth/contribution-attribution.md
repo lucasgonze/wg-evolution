@@ -5,7 +5,7 @@
 Question: Who has contributed to an open source project and what attribution information about people and organizations is assigned for a contribution?
 
 ## Description
-This metric evaluates who has worked on the project and specific project tasks and provides the attribution to  project contributors and affiliated organizations.  The aim is to understand, through insights into the paid contribution dynamics of a community, “how the work gets done.”
+This metric evaluates who has worked on the project and specific project tasks and provides attribution to  project contributors and affiliated organizations.  The aim is to understand, through insights into the paid contribution dynamics of a community, how the work gets done.
 
 ## Objectives
 1. Who is working on the project?
@@ -16,7 +16,7 @@ This metric evaluates who has worked on the project and specific project tasks a
 6. [How diverse is the community of contributors working on a project?](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)
 
 ## Implementation
-Most contributions can be implicitly attributed using trace data, and these attributions are reflected in other metrics. However, this metric relies heavily on data that is volunteered by contributors and interpreted by project leadership. The implementation of this metric demands that the human in the loop determine what organizations, and what individual contributors a contribution is attributed to. Each individual contributor should be offered the opportunity to indicate what firm, foundation, project, and/or client paid for a particular change.
+Most contributions can be implicitly attributed using trace data, and these attributions are reflected in other metrics. However, this metric relies heavily on data that is volunteered by contributors and interpreted by project leadership. The implementation of this metric demands that the human in the loop determine attribution for organizations and individual contributors. Each individual contributor should be offered the opportunity to indicate what firm, foundation, project, and/or client paid for a particular change.
 
 ### Filters
 
